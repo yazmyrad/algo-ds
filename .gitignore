@@ -2,3 +2,4 @@
 __pycache__/
 .zig-cache/
 binarySearch/__pycache__/binary_search.cpython-314.pyc
+.venv
