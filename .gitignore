@@ -1,5 +1,5 @@
-.vscode/
-__pycache__/
-.zig-cache/
+.vscode
+__pycache__
+.zig-cache
 binarySearch/__pycache__/binary_search.cpython-314.pyc
 .venv
